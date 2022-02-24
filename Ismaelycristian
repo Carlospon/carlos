@@ -386,5 +386,48 @@ https://stmvideo1.livecastv.com/mercedestv/mercedestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" group-title="PATAGONIA", CANAL 9 COMODORO RIVADAVIA https://live.canalnueve.tv/canal.m3u8 
 
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group4/M02/47/4A/ghoGAFz1Kn6AdKE-AAAZqnoTA64070.png?x-oss-process=style/mq200" group-title="MESOPOTAMIA", CANAL 12 MISIONES https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8 
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NORTE", LTO CATAMARCA https://live.prd.dlive.tv/hls/live/lastejasonline.m3u8 
 
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NORTE", LTO CAT
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="CUYO", CANAL 13 SAN LUIS https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="NORTE", CANAL 6 PLUS TV PRESIDENCIA DE LA PLAZA CHACO http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1082_TIV_Chaco.png" group-title="NORTE", TIV TRES ISLETAS CHACO https://inliveserver.com:1936/14044/14044/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7.jpg" group-title="CUYO", CANAL 2 SANAGASTA https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnitrSB9Z7r09TtKy1-VxLb8XvxxayUQEYvUnkYI=s900-c-k-c0x00ffffff-no-rj" group-title="CUYO", CHILECITO TV LA RIOJA https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="SANTA FE", TVES SAN JOSE DE LA ESQUINA SANTA FE https://stmv1.srvif.com/envivotves/envivotves/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1420219353635622914/rcEAdyao_400x400.jpg" group-title="SANTA FE", SOL 91.5 Santa Fe https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="CORDOBA", CANAL 4 SAN FRANCISCO CORDOBA http://204.199.3.2/.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA https://panel.dattalive.com/8138/8138/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="MESOPOTAMIA", CANAL 2 GUALEGUAY ENTRE RIOS https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="PAMPEANA", MERCEDES TV https://stmvideo1.livecastv.com/mercedestv/mercedestv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="PAMPEANA", CANAL 32 SPTV SAN PEDRO https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="PAMPEANA", CANAL 5 TANDIL https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="PAMPEANA", TELEJUNIN https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PAMPEANA", CELTV CANAL 2 TORNQUIST http://190.103.192.6:8080/hls/mystreamkey.m3u8 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="MESOPOTAMIA", CANAL 9 NORTE MISIONES https://panel.dattalive.com/8076/8076/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="PATAGONIA", TELECINCO TRELEW https://videohd.live:19360/8016/8016.m3u8 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="PAMPEANA", CANAL 32 SPTV SAN PEDRO
+https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="PAMPEANA", CANAL 5 TANDIL https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="PAMPEANA", TELEJUNIN 
+https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PAMPEANA", CELTV CANAL 2 TORNQUIST
+http://190.103.192.6:8080/hls/mystreamkey.m3u8
+
