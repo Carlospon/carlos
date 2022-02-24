@@ -628,3 +628,78 @@ http://23.237.29.98:2931/504clarosport/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z
 #EXTINF:-1 tvg-logo=HBO 
 
 http://23.237.29.98:2931/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
+http://23.237.29.98:2931/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Star Life 
+http://208.88.246.11:2931/209FoxLife/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Peliculas",Star Cinema
+http://208.88.246.11:2931/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="HD",Disney XD HD
+http://208.88.246.11:2931/304DisneyXDNorte/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles",Nickelodeon
+http://208.88.246.11:2931/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
+http://208.88.246.11:2931/654HBOPlus/
+transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
+http://208.88.246.11:2931/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png"
+http://208.88.246.11:2931/9602GLVSN/transco16/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento",Telemundo
+http://208.88.246.11:2931/encoder75/evento9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Puerto Rico",Wapa PR
+http://208.88.246.11:2931/0000/CH=%C2%A0PR-%C2%A0WAPA/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes",TVC Deportes 
+
+http://208.88.246.11:2931/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
+http://208.88.246.11:2931/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Peliculas",Star Fun http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/49.m3u8 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
+http://23.237.29.98:2931/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
+http://208.88.246.11:2931/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
+http://23.237.29.98:2931/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo=ANIMALPLANET 
+
+http://208.88.246.11:2931/408animalplanet/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+#EXTINF:-1 tvg-logo=ELATINO
+http://208.88.246.11:2931/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+#EXTINF:-1 tvg-logo=CARTONNEWORK
+http://23.237.29.98:2931/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+#EXTINF:-1 tvg-logo=CLAROESPORT
+http://23.237.29.98:2931/504clarosport/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 tvg-logo=HBO 
+
+http://23.237.29.98:2931/650HBO/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
