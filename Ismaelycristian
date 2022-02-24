@@ -655,21 +655,8 @@ http://208.88.246.11:2931/0000/CH=%C2%A0PR-%C2%A0WAPA/chunks.m3u8|User-agent=Brz
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes",TVC Deportes 
 http://208.88.246.11:2931/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
-http://208.88.246.11:2931/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Peliculas",Star Fun 
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/49.m3u8 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
-http://23.237.29.98:2931/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
-http://208.88.246.11:2931/250mtvla/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
-http://23.237.29.98:2931/406NatGeoWild/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 
