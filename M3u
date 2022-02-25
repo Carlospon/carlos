@@ -94,3 +94,6 @@ https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ESBA220000766" tvg-chno="4510" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/ESBA220000766_20210714T000849.png" group-title="CINE",Dark Matter Film & TV 
 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+
+#EXTINF:-1,RTS
+http://45.179.140.242:8000/play/a0kw
