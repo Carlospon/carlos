@@ -19,7 +19,6 @@ http://45.179.140.242:8000/play/a0j4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
 http://45.179.140.242:8000/play/a0kw
 
-
 http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="CINE", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8 
 
@@ -28,8 +27,6 @@ https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129098446428868608/ab0xYu_B.jpg" group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
 https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8?DVR
-
-
 
 #EXTINF:-1 tvg-logo="https://guacaratv.com/wp-content/uploads/2022/01/logo-Guacara-TV-153-x-90.png" group-title="CINE", GUACARA TV
 https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8?DVR 
@@ -44,15 +41,12 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE", A3CINE 
-
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8 
 
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD 
-
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8 
 
 #EXTINF:-1 tvg-logo="http:// x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E 
-
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/1.m3u8 
 
 #EXTINF:-1,ENTRETENIMIENTO:RCN(Colombia) 
