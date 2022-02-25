@@ -15,9 +15,6 @@ http://45.179.140.242:8000/play/a0j0
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
 http://45.179.140.242:8000/play/a0j4 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
-http://45.179.140.242:8000/play/a0kw
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="RELIGION", Avivamiento TV
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8 
 
