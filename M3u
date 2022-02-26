@@ -85,7 +85,7 @@ https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE", RAKUTEN TOP FREE 
-https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/master.m3u8?hdnea=st=1644426032~exp=1644426632~acl=/*~hmac=ba08811f937b0cfd00120c0e19abae4743a889ddead 
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBA220000766" tvg-chno="4510" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/ESBA220000766_20210714T000849.png" group-title="CINE",Dark Matter Film & TV 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
