@@ -1045,3 +1045,6 @@ https://www.youtube.com/watch?v=eGBMvVFGMfI
 
 #EXTINF:-1 group-title="INFANTIL 2", Baby Shark en español
 https://www.youtube.com/watch?v=4KUNBZoQk9o
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
