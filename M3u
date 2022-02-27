@@ -1048,3 +1048,6 @@ https://www.youtube.com/watch?v=4KUNBZoQk9o
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
 https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
+http://45.179.140.242:8000/play/a0jo
