@@ -523,7 +523,7 @@ http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/750.m3u8
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/746.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports 
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/52.m3u8 
+http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-mp4a_145200_spa=20001-avc1_899968=10009.m3u8?40
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/53.m3u8 
