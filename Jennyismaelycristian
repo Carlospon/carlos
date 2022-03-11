@@ -6,9 +6,6 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur 
 http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3058
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD 
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/474.m3u8 
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+ 
 http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3024
 
@@ -21,8 +18,8 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados 
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/878.m3u8 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7 
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/426.m3u8 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC 
 http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3021
