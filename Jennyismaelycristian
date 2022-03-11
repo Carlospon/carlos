@@ -631,7 +631,7 @@ http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/61.m3u8
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/760.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO 
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/62.m3u8 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN) 
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/723.m3u8 
