@@ -255,7 +255,7 @@ http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/704.m3u8
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/688.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal 
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/18.m3u8 
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur 
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/738.m3u8 
