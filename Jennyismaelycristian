@@ -20,8 +20,9 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/183.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES 
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/715.m3u8 
