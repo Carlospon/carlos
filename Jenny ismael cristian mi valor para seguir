@@ -174,7 +174,7 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGkDbcR.png" group-title="CINE", WOW 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png" group-title="CINE", EvaStream
 https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
