@@ -78,7 +78,7 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE", RUNTIME 
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-runtimeespana-samsung-spain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHqSBqRR5mzPCZ5RZitMnBzGjM6KiHwiTFF1I4FdTHPQ5NPgp_xvBGFqMZexy0Y26sQ&usqp=CAU" group-title="CINE", RAKUTEN FAMILIA 
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D 
