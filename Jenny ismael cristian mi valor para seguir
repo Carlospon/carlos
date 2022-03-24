@@ -126,7 +126,7 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="CINE", Geovision
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8 
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/cropped-favicon-192x192.png" group-title="CINE", SomosDelEste TV 
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/playlist.m3u8 
