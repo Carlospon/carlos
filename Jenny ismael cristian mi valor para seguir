@@ -9,6 +9,9 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/319.m3u8 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnGhdnsHeET_iRVug8Na1M2sHT7VToMSqzy01PJTNJRHqY8CkE9v0QyHDVaK0uxmgKA&dmTs=328265&dmV1st=761A73C9F22B291DE08DE7A55BCAF75D 
 
@@ -152,7 +155,8 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="ESPAÑA",TEF
 https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="ESPAÑA", LA OTRA https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="ESPAÑA", LA OTRA 
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200" group-title="ESPAÑA",101 TV Axarquía 
 https://limited38.todostreaming.es/live/101tv-webAxarquia.m3u8 
