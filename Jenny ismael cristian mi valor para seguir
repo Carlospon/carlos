@@ -123,7 +123,7 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FXRSd2J.png" group-title="CINE", AME47 
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8 
+https://ss2.domint.net:3210/ltv_str/latinatv/index.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="CINE", Geovision
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
