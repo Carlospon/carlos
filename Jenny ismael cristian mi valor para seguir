@@ -30,7 +30,7 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8?DVR
 
 
 #EXTINF:-1 tvg-logo="https://guacaratv.com/wp-content/uploads/2022/01/logo-Guacara-TV-153-x-90.png" group-title="CINE", GUACARA TV
-https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8?DVR 
+https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8 
