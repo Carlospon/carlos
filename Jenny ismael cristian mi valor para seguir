@@ -525,7 +525,7 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1, Su servicio venció en 11 horas, 57 minutos!
 http://ts.tvcluboficial.com/tvclub.ts
 
-#EXTINF:-1, TELEGRAM: t.me/TVClubOficial
+#EXTINF:-1,no está muy estable
 http://ts.tvcluboficial.com/tvclub.ts
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
