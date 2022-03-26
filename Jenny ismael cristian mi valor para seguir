@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
+https://www.youtube.com/watch?v=xfdG6vwIGGU
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
 https://www.youtube.com/watch?v=xfdG6vwIGGU
