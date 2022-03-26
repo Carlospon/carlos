@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
-https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+http://alv.encohd.co:39591/live/wdrety/cdew23/406.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
 https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8 
