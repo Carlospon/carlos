@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
-https://www.youtube.com/watch?v=xfdG6vwIGGU
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
 https://www.youtube.com/watch?v=xfdG6vwIGGU
@@ -21,7 +19,7 @@ http://alv.encohd.co:39591/live/wdrety/cdew23/418.m3u8
 https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
-https://www.youtube.com/watch?v=xfdG6vwIGGU
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
 https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8 
