@@ -1,6 +1,6 @@
 #EXTM3U 
 
-https://www.youtube.com/watch?v=BccyzhMWVmg
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 https://www.youtube.com/watch?v=BccyzhMWVmg
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
