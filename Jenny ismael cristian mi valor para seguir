@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
 https://lia.evosrv.com/EvoStreams/LARr7kB5wCHm7e0l09dq.mp4.mp4?md5=pQmDTtingPA5m17m7VUh1g&expires=1648515724
