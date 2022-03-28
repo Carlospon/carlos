@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
+https://lia.evosrv.com/EvoStreams/LARr7kB5wCHm7e0l09dq.mp4.mp4?md5=pQmDTtingPA5m17m7VUh1g&expires=1648515724
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
 http://spliktv@arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8?auth=spliktv&ss=shared.wedrly.22
 
