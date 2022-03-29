@@ -1,5 +1,9 @@
 #EXTM3U 
 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
+http://alv.encohd.co:39591/live/wdrety/cdew23/27.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
 http://spliktv@arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS)/index.m3u8?auth=spliktv&ss=shared.wedrly.22
 
