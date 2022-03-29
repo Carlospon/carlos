@@ -1,5 +1,9 @@
 #EXTM3U 
 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports
+http://spliktv@arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS)/index.m3u8?auth=spliktv&ss=shared.wedrly.22
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
 http://alv.encohd.co:39591/live/wdrety/cdew23/68.m3u8
 
