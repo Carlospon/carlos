@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
+http://alv.encohd.co:39591/live/wdrety/cdew23/68.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
 http://alv.encohd.co:39591/live/wdrety/cdew23/27.m3u8
