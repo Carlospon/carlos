@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=BccyzhMWVmg
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
 https://www.youtube.com/watch?v=xfdG6vwIGGU
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title=",Ecuavisa
 http://cdn04.sportsbay.xyz:2052/live-2/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDIyIDM6NDU6NTAgQU0maGFzaF92YWx1ZT1Fd3RqZ1NUZ01PVjRPOURVcWp1Y29nPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1___http://cdn04.sportsbay.xyz:2052/live-2/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDIyIDM6NDU6NTAgQU0maGFzaF92YWx1ZT12a1o4dS9OSEFWVUVCUEpTVExoTGh3PT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9MTg2MTc4NDU0Nw==&2
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
