@@ -3,29 +3,8 @@
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil
 http://208.88.246.11:4481/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports
-http://iptv.fronteratvonline.com:8080/jmrestream/525618/152166
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
-http://alv.encohd.co:39591/live/wdrety/cdew23/68.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
-http://iptv.fronteratvonline.com:8080/jmrestream/525618/151910
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-http://spliktv@arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS)/index.m3u8?auth=spliktv&ss=shared.wedrly.22
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
 https://server43.pelisloadtop.com/server43/d6f4293e37ef50dbaa0ebadea358c2e6/EP.0.2.v0.1648348883.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
-http://spliktv@arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8?auth=spliktv&ss=shared.wedrly.22
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-http://alv.encohd.co:39591/live/wdrety/cdew23/39.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT
-http://alv.encohd.co:39591/live/wdrety/cdew23/35.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 https://www.youtube.com/watch?v=BccyzhMWVmg
@@ -33,14 +12,8 @@ https://www.youtube.com/watch?v=BccyzhMWVmg
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
 https://www.youtube.com/watch?v=xfdG6vwIGGU
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title=",Ecuavisa
-http://cdn04.sportsbay.xyz:2052/live-2/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDIyIDM6NDU6NTAgQU0maGFzaF92YWx1ZT1Fd3RqZ1NUZ01PVjRPOURVcWp1Y29nPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1___http://cdn04.sportsbay.xyz:2052/live-2/071/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDIyIDM6NDU6NTAgQU0maGFzaF92YWx1ZT12a1o4dS9OSEFWVUVCUEpTVExoTGh3PT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9MTg2MTc4NDU0Nw==&2
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/319.m3u8 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-http://alv.encohd.co:39591/live/wdrety/cdew23/418.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
 https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
