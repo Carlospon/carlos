@@ -12,6 +12,11 @@ https://www.youtube.com/watch?v=BccyzhMWVmg
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
 https://www.youtube.com/watch?v=xfdG6vwIGGU
 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+http://clubtv.link/mayo13/may013/lista1.php?c=a02g
+
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
 https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 
