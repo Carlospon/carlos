@@ -53,8 +53,6 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD 
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8 
 
-#EXTINF:-1 tvg-logo="http:// x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E 
-http://51.79.18.128:8081/LATINO%7CAYE/LATINO%7CAYE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE", BUTACA TV 2 
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
