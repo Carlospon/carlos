@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnC5gb8VFEDIBOpn7O-HrDquluccHP3jnlhZxQS5QBVRDDWiGWAKEZoSwwY_-KKBi7g&dmTs=64505&dmV1st=7C07DB287B60967834B03C866EDCDA55
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/L4yp2F3j/MEGA.png" group-title="CHILE", MEGA
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
