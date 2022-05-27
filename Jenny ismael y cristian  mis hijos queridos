@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="NORTE", X24 TUCUMAN 
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="NORTE", CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
