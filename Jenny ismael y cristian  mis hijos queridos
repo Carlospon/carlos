@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/320.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="MESOPOTAMIA", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
