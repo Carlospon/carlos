@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Su servicio venció en 4 horas, 59 minutos!
-http://ts.tvcluboficial.com/tvclub.ts
-#EXTINF:-1, TELEGRAM: t.me/TVClubOficial
+
 http://ts.tvcluboficial.com/tvclub.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/1.m3u8
