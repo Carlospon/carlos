@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=1yS1IPD6tC125tAX8aFKkLqzJO1AAXcB&sid=divvbvn4X8sqU2oJPRSQV6rx1Eqt5wQy&pid=TMmo37H2oVt2ARRvT1tdxpX3awDRKeux&an=screen&at=web-app&av=v5.2.158&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res =412x232&sin_cookies=falso&dnt=verdadero
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/1.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
