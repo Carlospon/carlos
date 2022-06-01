@@ -1,4 +1,5 @@
-#EXTIN
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/1.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
