@@ -1,9 +1,137 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/320.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="MESOPOTAMIA", CTV CORRIENTES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=294c5358-c279-4f91-8ff5- a9f8fc366c84&clientModelNumber=na&country=EC&deviceDNT=false&deviceId=294c5358-c279-4f91-8ff5-a9f8fc366c84&deviceLat=-0.2498&deviceLon=-79.1485&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9c6195-da07-11eb-9564-0242ac110002&sid =5d9c6195-da07-11eb-9564-0242ac110002&IDusuario=
+
+#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="NORTE", CANAL 13 JUJUY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=294c5358-c279-4f91-8ff5- a9f8fc366c84&clientModelNumber=na&country=EC&deviceDNT=false&deviceId=294c5358-c279-4f91-8ff5-a9f8fc366c84&deviceLat=-0.2498&deviceLon=-79.1485&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9c6195-da07-11eb-9564-0242ac110002&sid =5d9c6195-da07-11eb-9564-0242ac110002&IDusuario=
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="NORTE", X24 TUCUMAN
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="NORTE", CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="EVENTOS DEPORTIVOS", NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/277194460-1172722883542606-2501920768306188360-n_orig.png" group-title="NORTE", MEGA TV CHACO
+https://vivo.solumedia.com:19360/megatv/megatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
+https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnHUOW5tns6EtrbyrbOEoGYqZFxdnHht1Rsm5fRkWNGPfEXOOwY25DkVSCLnWXaigQQ&dmTs=64505&dmV1st=7C07DB287B60967834B03C866EDCDA55
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
+http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/885.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/L4yp2F3j/MEGA.png" group-title="CHILE", MEGA
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
+https://server43.pelisloadtop.com/server43/d6f4293e37ef50dbaa0ebadea358c2e6/EP.0.2.v0.1648348883.m3u8
 
 
-https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnHZCEloVQJtP9nWXc3U0RuN0pRJenw4i-MNwb-zmtbSJtn9exLRxRhBz8aYOx_E_gw&dmTs=64505&dmV1st=7C07DB287B60967834B03C866EDCDA55
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=1yS1IPD6tC125tAX8aFKkLqzJO1AAXcB&sid=divvbvn4X8sqU2oJPRSQV6rx1Eqt5wQy&pid=TMmo37H2oVt2ARRvT1tdxpX3awDRKeux&an=screen&at=web-app&av=v5.2.158&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res =412x232&sin_cookies=falso&dnt=verdadero
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=1yS1IPD6tC125tAX8aFKkLqzJO1AAXcB&sid=divvbvn4X8sqU2oJPRSQV6rx1Eqt5wQy&pid=TMmo37H2oVt2ARRvT1tdxpX3awDRKeux&an=screen&at=web-app&av=v5.2.158&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&res =412x232&sin_cookies=falso&dnt=verdadero
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
+http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/320.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv2.m3u8
+
+http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="CINE", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="RELIGION", Avivamiento TV
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129098446428868608/ab0xYu_B.jpg" group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://guacaratv.com/wp-content/uploads/2022/01/logo-Guacara-TV-153-x-90.png" group-title="CINE", GUACARÁ TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", MULTIVISION SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="CUYO", TELESOL SAN JUAN
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1454452532298674177/YUUpaD2r_400x400.jpg" group-title="AMBA", SSIPTV ARG CARTOON
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceDGETOd%PTI%DviceLon=0&device&TARGELon%7B =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE", A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA ", CANAL DE LA CIUDAD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE", BUTACA TV 2
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE", BUTACA TV
+https://veranda-butacatv-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1361963964469493760/KjCFXNWp_400x400.jpg" group-title="CINE", FEEL GOOD VERDI
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Eua5piMWYAACG9y.jpg" group-title="CINE", Canal Cinesverdi
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE", TIEMPO DE EJECUCIÓN 3
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE", TIEMPO DE EJECUCIÓN 2
+https://municion-espanol-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE", TIEMPO DE EJECUCIÓN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-runtimeespana-samsung-spain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN %7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHqSBqRR5mzPCZ5RZitMnBzGjM6KiHwiTFF1I4FdTHPQ5NPgp_xvBGFqMZexy0Y26sQ&usqp=CAU" group-title="CINE", RAKUTEN FAMILIA
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1% 26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE",RAKUTEN ACCION
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D% 7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE", RAKUTEN COMEDIA
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D% 7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE", RAKUTEN DESTACADO
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D% 7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412648952134914051/38fp6fQm.jpg" group-title="CINE", RAKUTEN TOP GRATIS
+https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/master.m3u8?hdnea=st=1644426032~exp=1644426632~acl=/*~hmac=ba08811f937b0cfd00120c0e19abae4743a889ddead
+
+#EXTINF:-1 tvg-id="ESBA220000766" tvg-chno="4510" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/ESBA220000766_20210714T000849. png" group-title="CINE",Cine y TV de materia oscura
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain= %7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200" group-title="CINE", Cascara TV
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/177.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/1.m3u8
