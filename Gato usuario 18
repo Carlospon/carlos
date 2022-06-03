@@ -518,36 +518,10 @@ http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/192.m3u8
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/926.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/746.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/52.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/53.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/770.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/494.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/528.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD",Fox Sports 3 HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/839.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3 MX
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/54.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports Argentina HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/769.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/493.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/527.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/748.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/512.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/658.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/402.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/410.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/511.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs1.png" group-title="Deportes",FS1 USA HD
