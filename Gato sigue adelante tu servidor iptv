@@ -37,7 +37,7 @@ http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/677.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/269.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
-http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/298.m3u8
+http://dz.pandaria.live:8081/ENTRETENIMIENTO/ANTENA_35549/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjIgMjozMjoyMCBQTSZoYXNoX3ZhbHVlPXAxbFRoY0xKNXBHMXFBN0VWcVdqVUE9PSZ2YWxpZG1pbnV0ZXM9MjIw
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/146.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
