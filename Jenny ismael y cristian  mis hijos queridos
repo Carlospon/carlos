@@ -3,12 +3,6 @@
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/320.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="MESOPOTAMIA", CTV CORRIENTES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=294c5358-c279-4f91-8ff5-a9f8fc366c84&clientModelNumber=na&country=EC&deviceDNT=false&deviceId=294c5358-c279-4f91-8ff5-a9f8fc366c84&deviceLat=-0.2498&deviceLon=-79.1485&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9c6195-da07-11eb-9564-0242ac110002&sid=5d9c6195-da07-11eb-9564-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="NORTE", CANAL 13 JUJUY
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=294c5358-c279-4f91-8ff5-a9f8fc366c84&clientModelNumber=na&country=EC&deviceDNT=false&deviceId=294c5358-c279-4f91-8ff5-a9f8fc366c84&deviceLat=-0.2498&deviceLon=-79.1485&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5d9c6195-da07-11eb-9564-0242ac110002&sid=5d9c6195-da07-11eb-9564-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="NORTE", X24 TUCUMAN 
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
