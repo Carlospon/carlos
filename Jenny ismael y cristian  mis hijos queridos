@@ -16,9 +16,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://vivo.solumedia.com:19360/megatv/megatv.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
-http://dz.pandaria.live:8081/regional/tc_canal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDIyIDc6MTM6NTUgQU0maGFzaF92YWx1ZT1LajI4SWV2RzNsZGtKR1R2VER4UVFBPT0mdmFsaWRtaW51dGVzPTIyMA==
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/885.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/L4yp2F3j/MEGA.png" group-title="CHILE", MEGA
@@ -131,10 +128,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="CINE", SPTV Digital 
 https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="ESBA220000766" tvg-chno="4510" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/ESBA220000766_20210714T000849.png" 
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/ESBA220000766_20210714T000849.png" 
 group-title="CINE",Dark Matter Film & TV 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/
-amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8? 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8? 
 ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D 
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1015_Planetatv_Kids.png" group-title="CINE", PLANETATV MOVIES 
