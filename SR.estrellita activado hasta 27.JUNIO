@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
+http://dz.pandaria.live:8081/regional/tc_canal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDIyIDU6MDQ6NDcgUE0maGFzaF92YWx1ZT0zQThISUQwMFEvYStBbWlhU3VpVFNRPT0mdmFsaWRtaW51dGVzPTIyMA==
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
 http://user.tvcluboficial.com/stream/free_Jc_Xwd/S6z/320.m3u8
 
