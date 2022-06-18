@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_MarioEnrique_Barzola/IdR/1.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
-http://user.tvcluboficial.com/stream/free_MarioEnrique_Barzola/IdR/734.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
 http://user.tvcluboficial.com/stream/free_MarioEnrique_Barzola/IdR/474.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="México",A+
