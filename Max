@@ -1,11 +1,3 @@
-
-Buscar entradas
-@playlistfinder
-
-http://190.61.44.134:8000/play/a033
-1 ENTRADA
-Playlist Finder
-24 jun a las 20:33
 #EXTM3U
 #EXTINF:-1,AE Mundo
 http://190.61.44.134:8000/play/a01p
@@ -209,7 +201,4 @@ http://190.61.44.134:8000/play/a037
 http://190.61.44.134:8000/play/a0i3
 #EXTINF:-1,Zoom
 http://190.61.44.134:8000/play/a02v
-10 personas reaccionaron
-738
-Mira contenido interesante
-Inicia sesión en tu cuenta y sigue a creadores y comunidades populares
+
