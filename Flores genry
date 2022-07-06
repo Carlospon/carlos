@@ -354,21 +354,7 @@ http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/161.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/34.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/35.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="HD",ESPN 2 HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/484.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/531.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="HD",ESPN 3 HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/485.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="Deportes",ESPN 4
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/951.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/842.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="HD",ESPN HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/486.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/530.m3u8
+http://190.61.44.134:8000/play/a063
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/37.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD",ESPN Plus HD
