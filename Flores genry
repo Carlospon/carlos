@@ -26,9 +26,7 @@ http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/475.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/780.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/3.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="HD",Animal Planet HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/633.m3u8
+http://190.61.44.134:8000/play/a01g
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/677.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
