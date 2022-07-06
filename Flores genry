@@ -430,17 +430,9 @@ http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/61.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/760.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/62.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/723.m3u8
+http://190.61.44.134:8000/play/a030
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/300.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/724.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/732.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD (EN)
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/733.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/63.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="HD",HBO HD
