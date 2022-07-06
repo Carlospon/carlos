@@ -352,7 +352,7 @@ http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/162.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace TV
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/161.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/34.m3u8
+http://190.61.44.134:8000/play/a02s
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
 http://190.61.44.134:8000/play/a063
 #EXTINF:-1, ESPN 3
@@ -375,38 +375,6 @@ http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/192.m3u8
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/926.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/746.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/52.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/53.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/770.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/494.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/528.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD",Fox Sports 3 HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/839.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3 MX
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/54.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports Argentina HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/769.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/493.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/527.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/748.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/512.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/658.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/402.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/410.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/511.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs1.png" group-title="Deportes",FS1 USA HD
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/936.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fs2.png" group-title="Deportes",FS2 USA HD
