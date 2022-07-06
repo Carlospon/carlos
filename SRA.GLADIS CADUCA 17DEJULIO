@@ -33,7 +33,7 @@ http://190.61.44.134:8000/play/a02n
 http://190.61.44.134:8000/play/a02k
 #EXTINF:-1,Canal Uno
 http://190.61.44.134:8000/play/a02h
-#EXTINF:-1,Red de dibujos animados
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
 http://190.61.44.134:8000/play/a0i7
 #EXTINF:-1,Caricatura
 http://190.61.44.134:8000/play/a0g0
