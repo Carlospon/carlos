@@ -1,18 +1,7 @@
 #EXTM3U
-
-#EXTM3U
-#EXTINF:-1, Su servício vence en 11 horas, 29 minutos!
-http://ts3.tvcluboficial.com/videos/nuevogrupo/playlist.m3u8
-#EXTINF:-1, UNETE AL NUEVO GRUPO
-http://ts3.tvcluboficial.com/videos/nuevogrupo/playlist.m3u8
-#EXTINF:-1, TELEGRAM: t.me/+KDEYe_wlvVRjZGMx
-http://ts3.tvcluboficial.com/videos/nuevogrupo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/1.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/734.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
-http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/474.m3u8
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
 http://user.tvcluboficial.com/stream/free_Flores_Genry/VQS/406.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3cine.png" group-title="España",A3Cine
