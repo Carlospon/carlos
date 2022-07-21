@@ -1,4 +1,6 @@
 #EXTM3U
+http://45.71.185.142:8500/play/a034
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
