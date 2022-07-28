@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
-http://user.tvcluboficial.com/stream/free_joni_cruz/kKZ/1.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
-http://user.tvcluboficial.com/stream/free_joni_cruz/kKZ/734.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
-http://user.tvcluboficial.com/stream/free_joni_cruz/kKZ/474.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="México",A+
-http://user.tvcluboficial.com/stream/free_joni_cruz/kKZ/406.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
-https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
-https://vsd106.mycdn.me/hls/2015406197434.m3u8/sig/wopsPlNzKuk/expires/1658550834622/srcIp/186.178.47.132/clientType/0/srcAg/CHROME_ANDROID/mid/4005092794048?p.m3u48?p.m3u48?p.m3u
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1452644528142290950/4u07qtaq_400x400.jpg" group-title="ECUADOR", RTS
-http://45.71.185.142:8500/play/a034
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
 http://45.71.185.142:8500/play/a02d
 #EXTINF:-1,AE Mundo
