@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
-http://45.71.185.142:8500/play/a02d
+
+://45.71.185.142:8500/play/a02d
 #EXTINF:-1,AE Mundo
 http://45.71.185.142:8500/play/a01i
 #EXTINF:-1,AXN
