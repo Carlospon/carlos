@@ -377,10 +377,6 @@ http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/486.m3u8
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/530.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/37.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD",ESPN Plus HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/487.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnpremium.png" group-title="Deportes",ESPN Premium HD
-http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/952.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
 http://user.tvcluboficial.com/stream/free_C_R_NgL/hdU/177.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
