@@ -117,7 +117,7 @@ https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/master.m3u8?hdnea=st=1644426032~
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200" group-title="CINE", Cascara TV
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/177.m3u8 
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png" group-title="CINE", Mega Cine TV 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
